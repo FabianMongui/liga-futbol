@@ -16,9 +16,9 @@ function TablaPosiciones() {
           <tr>
             <th className="col-4">Equipo</th>
             <th style={{ width: '15%' }}>Puntos</th>
-            <th style={{ width: '15%' }}>Partidos Jugados</th>
-            <th style={{ width: '15%' }}>Partidos Ganados</th>
-            <th style={{ width: '15%' }}>Partidos Perdidos</th>
+            <th style={{ width: '15%' }}>PJ</th>
+            <th style={{ width: '15%' }}>PG</th>
+            <th style={{ width: '15%' }}>PP</th>
             <th style={{ width: '15%' }}>Goles</th>
           </tr>
         </thead>
