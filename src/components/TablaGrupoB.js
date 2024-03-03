@@ -6,9 +6,7 @@ function ordenarDatos() {
 }
 
 function TablaPosiciones() {
-  //const equipos = generateRandomData();
   ordenarDatos();
-  console.log("🚀 ~ TablaPosiciones ~ equipos:", equiposData)
 
   return (
     <div className="table-responsive mt-5">
