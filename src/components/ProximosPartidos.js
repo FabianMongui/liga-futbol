@@ -6,8 +6,8 @@ function ProximosPartidos() {
   
 
   return (
-    <div className="card mt-4">
-      <div className="card-header" style={{backgroundColor: "#cff4fc"}}>Próximos Partidos</div>
+    <div className="card mt-4 shadow bg-body rounded">
+      <div className="card-header" style={{backgroundColor: "#cff4fc"}}>Próximos Partidos Domingo 10</div>
       <ul className="list-group list-group-flush">
         {proximosPartidos.map((partido, index) => (
           <li key={index} className="list-group-item" style={{fontSize: 'small'}}>

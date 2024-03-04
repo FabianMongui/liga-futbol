@@ -12,7 +12,7 @@ function TablaPosiciones() {
   return (
     <div className="table-responsive mt-5">
       <h5>Grupo B</h5>
-      <table className="table table-striped">
+      <table className="table table-striped shadow bg-body rounded">
         <thead className='table-info'>
           <tr>
             <th className="col-4">Equipo</th>
