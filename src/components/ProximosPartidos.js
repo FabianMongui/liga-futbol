@@ -11,7 +11,8 @@ function ProximosPartidos() {
       <ul className="list-group list-group-flush">
         {proximosPartidos.map((partido, index) => (
           <li key={index} className="list-group-item" style={{fontSize: 'small'}}>
-              {partido.hora} | <strong>{partido.equipoLocal}</strong> vs <strong>{partido.equipoVisitante}</strong>
+              <div>{partido.hora}</div>
+              <strong>{partido.equipoLocal}</strong> vs <strong>{partido.equipoVisitante}</strong>
           </li>
         ))}
       </ul>
