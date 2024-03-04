@@ -1,0 +1,19 @@
+[
+  { 
+    "equipoLocal": "ALCALDÍA BOAVITA", 
+    "equipoVisitante": "ALCALDÍA SAN MATEO", 
+    "hora": "9:30" 
+  },
+  { "equipoLocal": "RECHINIGA", 
+    "equipoVisitante": "ALCALDÍA LA UVITA", 
+    "hora": "11:00" 
+  },
+  { "equipoLocal": "ALCALDÍA BOAVITA", 
+    "equipoVisitante": "MINAS F.C.", 
+    "hora": "1:00" 
+  },
+  { "equipoLocal": "REAL SOCIEDAD", 
+    "equipoVisitante": "ALCALDÍA LA UVITA", 
+    "hora": "3:00" 
+  }
+]

@@ -2,7 +2,7 @@ import React from 'react';
 
 function Menu() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav className="navbar navbar-expand-md navbar-light fixed-top" style={{backgroundColor: "#cff4fc"}}>
       <div className="container">
         <a className="navbar-brand" href="#">Torneo de Fútbol</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

@@ -4,7 +4,10 @@
     "puntos": 0,
     "partidosJugados": 0,
     "partidosGanados": 0,
+    "partidosEmpatados": 0,
     "partidosPerdidos": 0,
+    "golesFavor": 0,
+    "golesContra": 0,
     "goles": 0
   },
   {
@@ -12,7 +15,10 @@
     "puntos": 0,
     "partidosJugados": 0,
     "partidosGanados": 0,
+    "partidosEmpatados": 0,
     "partidosPerdidos": 0,
+    "golesFavor": 0,
+    "golesContra": 0,
     "goles": 0
   },
   {
@@ -20,23 +26,32 @@
     "puntos": 0,
     "partidosJugados": 0,
     "partidosGanados": 0,
+    "partidosEmpatados": 0,
     "partidosPerdidos": 0,
+    "golesFavor": 0,
+    "golesContra": 0,
     "goles": 0
   },
   {
     "equipo": "ALCALDÍA CHITA",
-    "puntos": 0,
-    "partidosJugados": 0,
-    "partidosGanados": 0,
+    "puntos": 3,
+    "partidosJugados": 1,
+    "partidosGanados": 1,
+    "partidosEmpatados": 0,
     "partidosPerdidos": 0,
-    "goles": 0
+    "golesFavor": 10,
+    "golesContra": 1,
+    "goles": 9
   },
   {
     "equipo": "LOS CHIPAS",
     "puntos": 0,
-    "partidosJugados": 0,
+    "partidosJugados": 1,
     "partidosGanados": 0,
-    "partidosPerdidos": 0,
-    "goles": 0
+    "partidosEmpatados": 0,
+    "partidosPerdidos": 1,
+    "golesFavor": 1,
+    "golesContra": 10,
+    "goles": -9
   }
 ]
