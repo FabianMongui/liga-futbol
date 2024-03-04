@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/liga-futbol/static/css/main.db62923b.css",
-    "main.js": "/liga-futbol/static/js/main.30213442.js",
+    "main.js": "/liga-futbol/static/js/main.94fc0442.js",
     "static/js/453.0a283ea9.chunk.js": "/liga-futbol/static/js/453.0a283ea9.chunk.js",
     "index.html": "/liga-futbol/index.html",
     "main.db62923b.css.map": "/liga-futbol/static/css/main.db62923b.css.map",
-    "main.30213442.js.map": "/liga-futbol/static/js/main.30213442.js.map",
+    "main.94fc0442.js.map": "/liga-futbol/static/js/main.94fc0442.js.map",
     "453.0a283ea9.chunk.js.map": "/liga-futbol/static/js/453.0a283ea9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.30213442.js"
+    "static/js/main.94fc0442.js"
   ]
 }
